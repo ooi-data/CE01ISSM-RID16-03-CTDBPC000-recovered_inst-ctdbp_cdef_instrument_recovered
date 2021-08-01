@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-RID16-03-CTDBPC000-recovered_inst-ctdbp_cdef_instrument_recovered
-last_request: '2021-07-19T18:34:43.651712Z'
+last_request: '2021-08-01T00:43:05.642206Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-RID16-03-CTDBPC000-recovered_inst-ctdbp_cdef_instrument_recovered/main/history/response.json
-status: success
+status: failed
